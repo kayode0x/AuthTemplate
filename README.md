@@ -1,5 +1,5 @@
 # AuthTemplate
-AuthTemplate - React Native, using Expo.
+React Native Auth Template + social auth, using valtio for state management.
 
 
 # 1
