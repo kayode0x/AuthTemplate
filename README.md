@@ -1,0 +1,2 @@
+# AuthTemplate
+AuthTemplate - React Native
