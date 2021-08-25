@@ -15,12 +15,12 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.kayode.authtemplate",
+      "bundleIdentifier": "com.your-name.authtemplate",
       "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.kayode.authtemplate",
+      "package": "com.your-name.authtemplate",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
